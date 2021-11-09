@@ -1,2 +1,2 @@
-# desafio02-trilha-reactjs-
+# desafio02-trilha-reactjs
 Componentizando a aplicação
